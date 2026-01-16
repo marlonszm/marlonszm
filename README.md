@@ -77,8 +77,8 @@ UNIT — 02/2023 · 06/2025
 ## 📫 Contato
 
 * 📧 Email: [marlonssmelo5@gmail.com](mailto:marlonssmelo5@gmail.com)
-* 💼 LinkedIn: *[(adicione aqui)](https://www.linkedin.com/in/marlon-melo-991698271/)*
+* 💼 LinkedIn: *https://www.linkedin.com/in/marlon-melo-991698271*
 
 ---
 
-> "Código limpo é aquele que qualquer pessoa consegue entender — inclusive você no futuro." 🚀
+> "Código limpo é aquele que qualquer pessoa consegue entender, inclusive você no futuro." 🚀
