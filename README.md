@@ -76,7 +76,7 @@ UNIT — 02/2023 · 06/2025
 
 ## 📫 Contato
 
-* 📧 Email: [marlonssmelo5@gmail.com](mailto:marlonssmelo5@gmail.com)
+* 📧 Email: [marlonssmelo5@gmail.com](mailto:marlonssmelo05@gmail.com)
 * 💼 LinkedIn: *https://www.linkedin.com/in/marlon-melo-991698271*
 
 ---
